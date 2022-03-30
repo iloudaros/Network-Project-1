@@ -1,3 +1,4 @@
-# Network Project
+# Network Projects
 
-Project στο μάθημα "Δίκτυα Υπολογιστών" 
+Ένα Directory για την αποθήκευση των Project στο μάθημα των Δικτύων
+
