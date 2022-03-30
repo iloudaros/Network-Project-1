@@ -1,3 +1,3 @@
-# Network-Project-1
+# Network Project
 
 Project στο μάθημα "Δίκτυα Υπολογιστών" 
